@@ -1,0 +1,13 @@
+{
+    "restaurants":[{
+        "id":0,
+        "name":"udupi",
+        "place":"banglore"
+    },
+    {
+        "id":1,
+        "name":"udupi garden",
+        "place":"banglore"
+    }
+    ]
+}

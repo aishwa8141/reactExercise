@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Homer",
+      "image": "https://pbs.twimg.com/profile_images/2119485351/Angry-homer_400x400.png"
+    },
+    {
+      "id": 2,
+      "name": "Bart",
+      "image": "http://2.bp.blogspot.com/-9fJqSSrYbcw/U58uuJu-h2I/AAAAAAAAA4k/MTDr_5sZR_s/s1600/BartSimpson16.gif"
+    },
+    {
+      "id": 3,
+      "name": "Marge",
+      "image": "http://www.simpsoncrazy.com/content/pictures/marge/MargeSimpson2.gif"
+    },
+    {
+      "id": 4,
+      "name": "Lisa",
+      "image": "http://i.imgur.com/4LClmI1.png"
+    },
+    {
+      "id": 5,
+      "name": "Maggie",
+      "image": "https://static.simpsonswiki.com/images/thumb/4/45/Maggie_Simpson_Home_Alone.jpg/200px-Maggie_Simpson_Home_Alone.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Flanders",
+      "image": "http://images5.fanpop.com/image/photos/30700000/Ned-Flanders-ned-flanders-30746051-284-319.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Moe",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/5/54/Imagemoe3.jpg/revision/latest/scale-to-width-down/185?cb=20130623173027"
+    },
+    {
+      "id": 8,
+      "name": "Ralphie",
+      "image": "http://laoblogger.com/images/ralph-wiggum-clipart-7.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Skinner",
+      "image": "http://www.fanpop.com/images/polls/17520_2_full.jpg?v=1189474236"
+    },
+    {
+      "id": 10,
+      "name": "Otto",
+      "image": "https://alchetron.com/cdn/otto-mann-85c19536-59d9-44ac-97c0-15869f848b6-resize-750.png"
+    },
+    {
+      "id": 11,
+      "name": "Nelson",
+      "image": "http://images1.fanpop.com/images/image_uploads/nelson-muntz-the-simpsons-nelson-muntz-sopt-1001987_500_550.gif"
+    },
+    {
+      "id": 12,
+      "name": "Burns",
+      "image": "https://c1.staticflickr.com/6/5735/24056228936_a2c9ef8ecf_b.jpg"
+    }
+]
